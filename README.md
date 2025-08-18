@@ -10,6 +10,10 @@ A single, presentation-ready Jupyter notebook showcasing soccer tracking analysi
 - Visuals: defensive line depth and team compactness (convex hulls)
 - Key takeaways and polished narrative
 
+## Internship Context
+
+- This project builds on my experience as a Soccer Analytics Intern at Inter Miami CF, where I worked under the Director of Analytics to process and analyze player tracking and match metadata. I developed Python scripts to automate data cleaning and transformation, implemented visualizations (defensive lines, convex hulls for team shape), and created performance reports to support tactical decision-making. This role combined my computer science background with applied sports analytics, strengthening my skills in data analysis, visualization, and communicating insights for a professional sports environment.
+
 ## Important note about data
 This notebook uses **proprietary tracking/metadata JSON files** from my work at Inter Miami CF. Those files **are not included** in this repo for confidentiality. The notebook is provided **for review of the approach and results**, not for execution.
 
